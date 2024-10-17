@@ -15,13 +15,18 @@
                 <GradientStop Color="#FFE0DAD7" Offset="0.62"/>
             </LinearGradientBrush>
         </Grid.Background>
+
         <Button Content="Select File" Click="SelectFile_Click" HorizontalAlignment="Left" Margin="164,197,0,0" VerticalAlignment="Top" Background="#FF001BFF"/>
-        <TextBox x:Name="FilePathTextBox" IsReadOnly="True" HorizontalAlignment="Left" Height="102" Margin="264,158,0,0" TextWrapping="Wrap" Text="Selected File Path" VerticalAlignment="Top" Width="299" Foreground="White" TextAlignment="Center">
+        <TextBox x:Name="FilePathTextBox" IsReadOnly="True" HorizontalAlignment="Left" Height="102" Margin="264,158,0,0" TextWrapping="Wrap" Text="Selected File Path" VerticalAlignment="Top" Width="299" Foreground="White" TextAlignment="Center" TextChanged="FilePathTextBox_TextChanged">
             <TextBox.Background>
                 <ImageBrush ImageSource="/maxresdefault.jpg"/>
             </TextBox.Background>
         </TextBox>
+
         <Button Content="Send File" Click="SendFile_Click" HorizontalAlignment="Left" Margin="166,177,0,0" VerticalAlignment="Top" Background="White"/>
         <Button Content="Receive File" Click="ReceiveFile_Click" HorizontalAlignment="Left" Margin="160,217,0,0" VerticalAlignment="Top" Background="#FFFF0A0A"/>
+
+        <ProgressBar x:Name="FileTransferProgressBar" Height="30" Margin="166,260,162,0" VerticalAlignment="Top" />
+        <TextBlock x:Name="StatusTextBlock" Margin="164,290,164,0" VerticalAlignment="Top" Foreground="White" TextAlignment="Center"/>
     </Grid>
 </Window>
