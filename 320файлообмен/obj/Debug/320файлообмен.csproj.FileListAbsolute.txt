@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\320\320файлообмен\320файлообмен\bin\Debug\320файлообмен.exe.config
+C:\Users\user\Desktop\320\320файлообмен\320файлообмен\bin\Debug\320файлообмен.exe
+C:\Users\user\Desktop\320\320файлообмен\320файлообмен\bin\Debug\320файлообмен.pdb
+C:\Users\user\Desktop\320\320файлообмен\320файлообмен\obj\Debug\320файлообмен.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\320\320файлообмен\320файлообмен\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\320\320файлообмен\320файлообмен\obj\Debug\App.g.cs
+C:\Users\user\Desktop\320\320файлообмен\320файлообмен\obj\Debug\320файлообмен_MarkupCompile.cache
+C:\Users\user\Desktop\320\320файлообмен\320файлообмен\obj\Debug\320файлообмен_MarkupCompile.lref
+C:\Users\user\Desktop\320\320файлообмен\320файлообмен\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\320\320файлообмен\320файлообмен\obj\Debug\320файлообмен.g.resources
+C:\Users\user\Desktop\320\320файлообмен\320файлообмен\obj\Debug\_320файлообмен.Properties.Resources.resources
+C:\Users\user\Desktop\320\320файлообмен\320файлообмен\obj\Debug\320файлообмен.csproj.GenerateResource.cache
+C:\Users\user\Desktop\320\320файлообмен\320файлообмен\obj\Debug\320файлообмен.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\320\320файлообмен\320файлообмен\obj\Debug\320файлообмен.exe
+C:\Users\user\Desktop\320\320файлообмен\320файлообмен\obj\Debug\320файлообмен.pdb
